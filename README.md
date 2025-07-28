@@ -1,10 +1,10 @@
 <div align="center" style="background: linear-gradient(90deg, #2600ffff, #92FE9D); padding: 20px; border-radius: 12px;">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=1&pause=1100&center=true&vCenter=true&width=435&lines=Hello%2C+I+am+Sepehr!&color=000000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=1&pause=1100&center=true&vCenter=true&width=435&lines=Hello%2C+I+am+Sepehr!&color=ffffff" alt="Typing SVG" />
   <img align="right" src="assets/sonic-the-hedgehog.gif" width="150" alt="Sonic the Hedgehog">
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=3000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub&color=000000" alt="Typing SVG" /> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1100&center=true&vCenter=true&width=435&lines=Make+sure+to+check+out+my+website&color=000000" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=3000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub&color=ffffff" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1100&center=true&vCenter=true&width=435&lines=Make+sure+to+check+out+my+website&color=ffffff" alt="Typing SVG" /> 
 </div>
 
 ---
@@ -94,15 +94,4 @@
        margin: auto;
      ">
 Let's build something impactful together!
-</div>
-
-<div align="center" style="background: linear-gradient(90deg, #2600FF, #92FE9D); padding: 20px; border-radius: 12px; color: white;">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=1&pause=1100&center=true&vCenter=true&width=435&lines=Hello%2C+I+am+Sepehr!&color=000000" alt="Typing SVG" />
-  
-  <br>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=3000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub&color=000000" alt="Typing SVG" /> 
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1100&center=true&vCenter=true&width=435&lines=Make+sure+to+check+out+my+website&color=000000" alt="Typing SVG" /> 
 </div>
