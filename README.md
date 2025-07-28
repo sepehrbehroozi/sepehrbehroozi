@@ -83,17 +83,4 @@
 
 ---
 
-<div align="left" 
-     style="
-       background: linear-gradient(90deg, #2600ffff, #92FE9D);
-       padding: 20px; 
-       border-radius: 12px;
-       color: white;
-       font-weight: 600;
-       text-shadow: 1px 4px 7px rgba(0, 0, 0, );
-       font-family: Arial, sans-serif;
-       max-width: 600px;
-       margin: auto;
-     ">
-    Let's build something impactful together!
-</div>
+## Let's build something impactful together!
