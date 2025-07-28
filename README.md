@@ -10,15 +10,17 @@
 ---
 
 <p align="center">
-  <a href="https://sepehrbehroozi.github.io/my-personal-website/" 
-     style="text-decoration:none; padding:12px 24px; background-color:#2600ffff; color:white; border-radius:6px; font-weight:bold; margin-right:10px; font-family: Arial, sans-serif;">
-    Portfolio
+  <a href="https://linkedin.com/in/sepehrbehroozi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="https://linkedin.com/in/sepehrbehroozi" 
-     style="text-decoration:none; padding:12px 24px; background-color:#069494; color:white; border-radius:6px; font-weight:bold; font-family: Arial, sans-serif;">
-    LinkedIn
+  <a href="mailto:sepehrbehroozi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  <a href="https://sepehrbehroozi.github.io/my-personal-website/">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge" />
   </a>
 </p>
+
 
 <div align="left" 
      style="
@@ -93,5 +95,5 @@
        max-width: 600px;
        margin: auto;
      ">
-Let's build something impactful together!
+    Let's build something impactful together!
 </div>
