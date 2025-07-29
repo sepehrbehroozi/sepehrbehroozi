@@ -9,7 +9,6 @@
 
 ---
 
-<div align="center" style="border:1px solid #ccc; padding: 15px; border-radius: 10px; background: #3c3b3bff">
   <p align="center">
     <a href="https://linkedin.com/in/sepehrbehroozi">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="36">
@@ -22,11 +21,8 @@
     </a>
   </p>
 
-<div align="left" style="border:1px solid #ccc; padding: 15px; border-radius: 10px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <strong>Hello I'm Sepehr!</strong><br>
-  <em>BSc in Computing Science (UofA) | Software & Web developer | ML Enthusiast</em><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&width=500&lines=BSc+in+Computing+Science+(UofA);Software+%26+Web+Developer;ML+Enthusiast&color=36e9dd" alt="Typing SVG" />
   Welcome to my GitHub profile! I'm a BSc Computing Science graduate from the University of Alberta with expertise in software development and machine learning. I thrive on building impactful solutions that bridge technology and human needs.
-</div>
 
 ---
 
@@ -45,8 +41,7 @@
 
 ---
 
-## **📫 Let's Connect!**
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1&pause=5000&width=500&lines=Let's+connect+and+build+together!&color=36e9dd" alt="Typing SVG" />
 <div align="left" style="border:1px solid #ccc; padding: 15px; border-radius: 10px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #ffffffff">
   Open to collaborations and new opportunities in software development and Artificial Intelligence.
 
@@ -59,8 +54,4 @@
   <a href="mailto:sepehrbehroozi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="30"></a>
   <a href="https://sepehrbehroozi.github.io/my-personal-website/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white" height="30"></a>
 </p>
-
-## Let's build something impactful together!
-
-</div>
 </div>
