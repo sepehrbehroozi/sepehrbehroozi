@@ -45,7 +45,7 @@
 <div align="left" style="border:1px solid #ccc; padding: 15px; border-radius: 10px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #ffffffff">
   Open to collaborations and new opportunities in software development and Artificial Intelligence.
 
-<img align="right" src="assets/sonic-dance.gif" width="150" alt="Sonic the Hedgehog">
+<img align="right" src="assets/sonic-dance.gif" width="200" alt="Sonic the Hedgehog">
 
 <br><br>
 
