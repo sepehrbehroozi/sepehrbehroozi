@@ -22,17 +22,16 @@
     </a>
   </p>
 
-<div align="center" style="border:1px solid #ccc; padding: 15px; border-radius: 10px; background: #36e9ddff">
-  <strong>Hello! I'm Sepehr 👋</strong><br>
+<div align="left" style="border:1px solid #ccc; padding: 15px; border-radius: 10px; background: #36e9ddff">
+  <strong>Hello I'm Sepehr!</strong><br>
   <em>BSc in Computing Science (UofA) | Software & Web developer | ML Enthusiast</em><br>
   Welcome to my GitHub profile! I'm a BSc Computing Science graduate from the University of Alberta with expertise in software development and machine learning. I thrive on building impactful solutions that bridge technology and human needs.
 </div>
 
 ---
 
-
+<img src="assets/Vanilla@1x-1.0s-280px-250px.gif" alt="Sonic the Hedgehog">
 <div align="center" style="border:1px solid #ccc; padding: 15px; border-radius: 10px; background: #3c3b3bff">
-<h2>🛠️ Tech Stack</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,java,bash,regex)](https://skillicons.dev)
 
