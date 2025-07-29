@@ -22,7 +22,7 @@
     </a>
   </p>
 
-<div align="left" style="border:1px solid #ccc; padding: 15px; border-radius: 10px; background: #36e9ddff">
+<div align="left" style="border:1px solid #ccc; padding: 15px; border-radius: 10px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <strong>Hello I'm Sepehr!</strong><br>
   <em>BSc in Computing Science (UofA) | Software & Web developer | ML Enthusiast</em><br>
   Welcome to my GitHub profile! I'm a BSc Computing Science graduate from the University of Alberta with expertise in software development and machine learning. I thrive on building impactful solutions that bridge technology and human needs.
@@ -47,7 +47,7 @@
 
 ## **📫 Let's Connect!**
 
-<div align="left" style="border:1px solid #ccc; padding: 15px; border-radius: 10px; background: #ffffffff">
+<div align="left" style="border:1px solid #ccc; padding: 15px; border-radius: 10px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #ffffffff">
   Open to collaborations and new opportunities in software development and Artificial Intelligence.
 
 <img align="right" src="assets/sonic-dance.gif" width="150" alt="Sonic the Hedgehog">
