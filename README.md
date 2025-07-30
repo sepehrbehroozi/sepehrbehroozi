@@ -37,7 +37,7 @@
 
 <img src="assets/sonic-pushing.gif" width="150" alt="Sonic the Hedgehog">![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sepehrbehroozi&layout=compact&theme=radical)
 
-![Snake animation](https://github.com/sepehrbehroozi/sepehrbehroozi/blob/output/github-snake-dark.svg)
+![Snake animation](https://github.com/sepehrbehroozi/sepehrbehroozi/blob/output/github-snake.svg)
 
 
 </div>
